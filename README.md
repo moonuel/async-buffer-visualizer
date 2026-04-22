@@ -1,0 +1,1 @@
+A study in low-latency/zero-copy data ingestion from a simulated hardware data stream into a live visualization. 
